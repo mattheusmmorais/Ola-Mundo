@@ -1,3 +1,6 @@
 # Olá, Mundo
 primeiro repositório do curso de git/github.
-repositório de aprendizado.
+
+Repositório de aprendizado.
+
+Mais uma linha adicionada.
